@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.fondoverdeclaro{
+    background-color:lightcyan
+}
+
+.fondoverde{
+    background-color: cadetblue;
+}
+
+.altura1{
+    height: 2rem;
+}
+
+.altura2{
+    height: 20rem;
+}
+
+.altura3{
+    height: 20rem;
+}
+
+.altura4{
+    height: 20rem;
+}
+
+.altura5{
+    height: 20rem;
+}
+
+.altura6{
+    height: 10rem;
+}
+
+.altura7{
+    height: 10rem;
+}
+
+.fondoamarillo{
+    background-color: white;
+}
+
+.fondoazul{
+    background-color: white;
+}
+
+.fondorojo{
+    background-color: white;
+}
+
+.fondonaranja{
+    background-color: pink;
+}
+
+.fondomorado{
+    background-color: powderblue;
+}
+
+.fondogris{
+    background-color: palevioletred;
+}
